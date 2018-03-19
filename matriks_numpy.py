@@ -1,5 +1,7 @@
 import numpy as np
 
+#SOAL From http://www.ajarhitung.com/2017/01/contoh-soal-dan-pembahasan-tentang_24.html
+
 def soal1():
 	a = np.matrix([[3, -2], [4, -1]])
 	b = np.matrix([[4, 3], [-2, -1]])
